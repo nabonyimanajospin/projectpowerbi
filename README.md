@@ -158,13 +158,15 @@ print("Classification Report:\n", classification_report(y_test, y_pred))
 
 **Visuals Created:**
 
-* Job vs Subscription (Bar Chart)
-* Education vs Subscription
-* Call Duration Histogram
-* Subscription Distribution Pie
-* Month-wise Campaign Effectiveness
+| No. | Visualization                     | Insight                                      |
+| --- | --------------------------------- | -------------------------------------------- |
+| 1️⃣ | Job vs Subscription               | Management and retired people subscribe more |
+| 2️⃣ | Education vs Subscription         | Higher education tends to subscribe more     |
+| 3️⃣ | Call Duration Histogram           | Longer calls often result in subscriptions   |
+| 4️⃣ | Subscription Distribution Pie     | Majority of customers did not subscribe      |
+| 5️⃣ | Month-wise Campaign Effectiveness | May and June show more campaign activity     |
 
-Slicers: Month, Job, Marital Status, Subscription
+**Slicers Included:** Month, Job, Marital Status, Subscription
 
 ---
 
@@ -186,7 +188,8 @@ This project helps banks:
 
 ---
 
-## 🍿 License
+## 🏁 Academic Declaration & License
 
-This work is for academic submission only — not for commercial use.
-© 2025 Nabonyimana Jospin – INSY 8413 – All rights reserved.
+📚 This project was developed as a Capstone assignment for **INSY 8413 – Introduction to Big Data Analytics** at AUCA.
+
+© 2025 Nabonyimana Jospin – All rights reserved.
